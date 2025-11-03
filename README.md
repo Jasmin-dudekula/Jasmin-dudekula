@@ -44,10 +44,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jasmin-dudekula&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Commits,PullRequest,Stars)
-
-
+## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=jasmin-dudekula&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=jasmin-dudekula&icon=0&color=0)](https://visitcount.itsvg.in)

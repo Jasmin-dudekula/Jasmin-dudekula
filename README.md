@@ -36,10 +36,10 @@
 ![Google Cloud](https://img.shields.io/badge/googlecloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
-<!-- <a href="http://www.github.com/Jasmin-Dudekula"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasmin-Dudekula&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jasmin-dudekula&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+---
 ![](https://streak-stats.demolab.com?user=jasmin-dudekula&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmin-dudekula&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
